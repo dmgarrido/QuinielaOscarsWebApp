@@ -1,0 +1,619 @@
+{
+  "name": "oscars_nominees_2016",
+  "results": {
+    "picture": [
+      {
+        "title": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/05162434/f1c5ca53316b9b0f889a9d55bf2b31c394541dc979a981ef16a5bec95cc737d3.jpg",
+          "text": "La gran apuesta"
+        }
+      },
+      {
+        "title": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/19094832/22c2ede873d33f6a8a2a89d016323a326b49f00a2c2cf857c48a44c85b2b24e5.jpg",
+          "text": "El puente de los espías"
+        }
+      },
+      {
+        "title": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07114336/587660ca08ee3eb89350921571b69736dcd09bd3b9090aab796459d6cc8c0153.jpg",
+          "text": "Brooklyn"
+        }
+      },
+      {
+        "title": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07124325/5fe7fe4d97e8d1f863f873e889a2193789b6470e5e6ddae5529305e177bf8ed7.jpg",
+          "text": "Mad Max: Furia en la carretera"
+        }
+      },
+      {
+        "title": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07122304/8fba759e9ecc6f8d378e42abdde723c3f5f8c3a9a31f6bb062fa547db12c4f1f.jpg",
+          "text": "Marte"
+        }
+      },
+      {
+        "title": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06180744/773bddf4631d268b7a1d8fe196700c54db8e328aec2f9da422dd9d464859ec41.jpg",
+          "text": "El renacido"
+        }
+      },
+      {
+        "title": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06173251/8b6e81164efd39b69954972919b6d33d8fe85e4acb46f6e95262128fa2d4e90e.jpg",
+          "text": "La habitación"
+        }
+      },
+      {
+        "title": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06131956/6ee6a434d2504ffeac420559cf02b9c1a2e058642ef6637ba38c795ba4a5f141.jpg",
+          "text": "Spotlight"
+        }
+      }
+    ],
+    "actor_leading": [
+      {
+        "actor": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/05172521/a44b99e8aff67208167be5e43b1ebf64c349da1fcca312cbd056dc7c4161da5c.jpg",
+          "text": "Brian Cranston (Trumbo)"
+        }
+      },
+      {
+        "actor": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07122258/2eedf53bd577fc5231ff85ca0199800e8f14d0789b3316c46fac1243034ec0b6.jpg",
+          "text": "Matt Damon (Marte)"
+        }
+      },
+      {
+        "actor": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06180712/1cd23eb2ba2f1edf37372f333900bf52dd38ece8e0caedc57ec8b9ccd78a4fb4.jpg",
+          "text": "Leonardo DiCaprio (El renacido)"
+        }
+      },
+      {
+        "actor": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06114235/4594b0f18377c5d73c47b19277ac727bbf1107013dc655ec5e3058ba232753f1.jpg",
+          "text": "Michael Fassbender (Steve Jobs)"
+        }
+      },
+      {
+        "actor": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07125014/b18ecdaa71cdb4c35391b592000ebf2f105bac44aa5b80c508b6a1fd875383d2.jpg",
+          "text": "Eddie Redmayne (La chica danesa)"
+        }
+      }
+    ],
+    "actress_leading": [
+      {
+        "actress": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07115409/f73375d42b82d12e6516b5821bfcfef9594315bc64e1d03598e63f2c50d8d4f3.jpg",
+          "text": "Cate Blanchett (Carol)"
+        }
+      },
+      {
+        "actress": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06173115/bbaf3dcdd21aae93445e769b1be2790340ffcde366e14e068da7d043cb7b6c1a.jpg",
+          "text": "Brie Larsson (La habitación)"
+        }
+      },
+      {
+        "actress": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07173055/052808436244194a78781c4968f210cfa5ecaf7c9bb72130a455d046983a892a.jpg",
+          "text": "Jennifer Lawrence (Joy)"
+        }
+      },
+      {
+        "actress": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/05102732/f6d902bfec345addc6128c7675cf4ba441f6f56d56132232d2fb0eea2d1799f5.jpg",
+          "text": "Charlotte Rampling (45 años)"
+        }
+      },
+      {
+        "actress": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07114320/f78b887de364917f7d24497620ab832c27b62df0eeee2327b17bd44f87f1081a.jpg",
+          "text": "Seorsie Ronan (Brooklyn)"
+        }
+      }
+    ],
+    "actor_supporting": [
+      {
+        "actor_sup": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/05162441/1f53c2cfb1df54d4015af5eb7e18538ca00ee8cd572b93805da90a3c6df41d5c.jpg",
+          "text": "Christian Bale (La gran apuesta)"
+        }
+      },
+      {
+        "actor_sup": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/13214608/762006ad6c4733094f2981dc9f5c935f4fa97e04a1dc696538fc2f1ed0437f88.jpg",
+          "text": "Tom Hardy (El renacido)"
+        }
+      },
+      {
+        "actor_sup": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06131928/e8f9b34f2816a8e12295c03c3997ce94e9f8a532dc61e5e0271b4c4f24336e3b.jpg",
+          "text": "Mark Ruffalo (Spotlight)"
+        }
+      },
+      {
+        "actor_sup": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06121743/ae952f77a11b7bbd1e0ce3eb3adbbf5920a56efab32a42dc1ed8068f87e60621.jpg",
+          "text": "Mark Rylance (El puente de los espías)"
+        }
+      },
+      {
+        "actor_sup": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07124458/1c84e40b374b425557f8b58f2a6dc58f8de56f1fd06afc9e0057be96b942dd24.jpg",
+          "text": "Sylvester Stallone (Creed)"
+        }
+      }
+    ],
+    "actress_supporting": [
+      {
+        "actress_sup": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/08122138/ad65f5cea0e5d93059194620ccfab978cc09038bd18d41bcc670f0e6c950239b.jpg",
+          "text": "Jennifer Jason Leight (Los odiosos ocho)"
+        }
+      },
+      {
+        "actress_sup": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07115549/c1a3c86fedea11a1faf942230443b93248a6216405fb1915a9900c133ff47359.jpg",
+          "text": "Rooney Mara (Carol)"
+        }
+      },
+      {
+        "actress_sup": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06132109/e6f2ec4bc0a56377b79e3634000f145e022183fb0615b6f6599a4786a916f295.jpg",
+          "text": "Rachel McAdams (Spotlight)"
+        }
+      },
+      {
+        "actress_sup": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07125027/bbf7482022dfe200c9f49bd851ea7210c5997569817e15aa10dff970b0b170a3.jpg",
+          "text": "Alicia Vikander (La chica danesa)"
+        }
+      },
+      {
+        "actress_sup": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06114218/12b74df02fab63592c43be430d174cb3f87728f5183d75a8a8abf3e3b6936c4f.jpg",
+          "text": "Kate Winslet (Steve Jobs)"
+        }
+      }
+    ],
+    "animated_film": [
+      {
+        "title_animated": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07174757/d69fb0d55323f1d70fd91d2f63e041fa0f56367d59eb24a8e3d22d3b8c7e34cd.jpg",
+          "text": "Del revés"
+        }
+      },
+      {
+        "title_animated": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/05143148/58e7f25de50280a04cffbd77fc197ada28cf12c31732abe84df5c3d889a22507.jpg",
+          "text": "Anomalisa"
+        }
+      },
+      {
+        "title_animated": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/05162813/86c840e64ae43b5c75ba5ab94e688ac9e4d90c712bcfd63e521824ba2515754b.jpg",
+          "text": "When Marnie was there"
+        }
+      },
+      {
+        "title_animated": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06115604/8c2e45a5102cb88bc6547b06ba383f02b92c197daeb293845ba0e2dc6f770d3a.jpg",
+          "text": "El niño y el mundo"
+        }
+      },
+      {
+        "title_animated": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/12201545/a99636f3ff90a57304d489b92e3ec1ffe55c41ae2df9027895869a3a1c404441.jpg",
+          "text": "La oveja Shaun"
+        }
+      }
+    ],
+    "cinematography": [
+      {
+        "title_cinema": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07115425/77c96822d2cf3adc31f0321808e9659f8a2d381503b1fcb3f773d40c1caf25be.jpg",
+          "text": "Carol"
+        }
+      },
+      {
+        "title_cinema": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/08122013/bc4dc4c865a73d7f79ada6d44a84a2b7304e8677b41bab71c29f9f022ebc03e0.jpeg",
+          "text": "Los odiosos ocho"
+        }
+      },
+      {
+        "title_cinema": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06155448/c3d8dcea66659c9ebf85c9deacc3bb3b5e849a34739c54047c10cbe8c2fe7fb2.jpg",
+          "text": "Sicario"
+        }
+      },
+      {
+        "title_cinema": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06180744/773bddf4631d268b7a1d8fe196700c54db8e328aec2f9da422dd9d464859ec41.jpg",
+          "text": "El renacido"
+        }
+      },
+      {
+        "title_cinema": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07124325/5fe7fe4d97e8d1f863f873e889a2193789b6470e5e6ddae5529305e177bf8ed7.jpg",
+          "text": "Mad Max: Furia en la carretera"
+        }
+      }
+    ],
+    "costume_design": [
+      {
+        "title_costume": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07115425/77c96822d2cf3adc31f0321808e9659f8a2d381503b1fcb3f773d40c1caf25be.jpg",
+          "text": "Carol"
+        }
+      },
+      {
+        "title_costume": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07121635/08de936ad9336fbcd0385cc647277297fd28d6ce2ccd777022bbfa93fa3e56e5.jpg",
+          "text": "Cenicienta"
+        }
+      },
+      {
+        "title_costume": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07125153/1641d8e4f3d7ba23de6fe7aca6ce9bf20a154577c556007fd643363e99f5f925.jpg",
+          "text": "La chica danesa"
+        }
+      },
+      {
+        "title_costume": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07124325/5fe7fe4d97e8d1f863f873e889a2193789b6470e5e6ddae5529305e177bf8ed7.jpg",
+          "text": "Mad Max: Furia en la carretera"
+        }
+      },
+      {
+        "title_costume": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06180744/773bddf4631d268b7a1d8fe196700c54db8e328aec2f9da422dd9d464859ec41.jpg",
+          "text": "El renacido"
+        }
+      }
+    ],
+    "film_editing": [
+      {
+        "title_editing": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07124325/5fe7fe4d97e8d1f863f873e889a2193789b6470e5e6ddae5529305e177bf8ed7.jpg",
+          "text": "Mad Max: Furia en la carretera"
+        }
+      },
+      {
+        "title_editing": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06131956/6ee6a434d2504ffeac420559cf02b9c1a2e058642ef6637ba38c795ba4a5f141.jpg",
+          "text": "Spotlight"
+        }
+      },
+      {
+        "title_editing": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06122256/37e82ec6d6cf8b279bb68b2c5389cb96c312ec69e80e99419d5029272d612103.jpg",
+          "text": "Star Wars: El despertar de la fuerza"
+        }
+      },
+      {
+        "title_editing": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/05162434/f1c5ca53316b9b0f889a9d55bf2b31c394541dc979a981ef16a5bec95cc737d3.jpg",
+          "text": "La gran apuesta"
+        }
+      },
+      {
+        "title_editing": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06180744/773bddf4631d268b7a1d8fe196700c54db8e328aec2f9da422dd9d464859ec41.jpg",
+          "text": "El renacido"
+        }
+      }
+    ],
+    "makeup": [
+      {
+        "title_makeup": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07124325/5fe7fe4d97e8d1f863f873e889a2193789b6470e5e6ddae5529305e177bf8ed7.jpg",
+          "text": "Mad Max: Furia en la carretera"
+        }
+      },
+      {
+        "title_makeup": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/12174148/7026d5d489d19dbef844c59fbe0e17e9646979cc0062f997526be3735682fe99.jpeg",
+          "text": "El abuelo que saltó por la ventana y se largó"
+        }
+      },
+      {
+        "title_makeup": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06180744/773bddf4631d268b7a1d8fe196700c54db8e328aec2f9da422dd9d464859ec41.jpg",
+          "text": "El renacido"
+        }
+      }
+    ],
+    "music": [
+      {
+        "title_music": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/19094832/22c2ede873d33f6a8a2a89d016323a326b49f00a2c2cf857c48a44c85b2b24e5.jpg",
+          "text": "El puente de los espías"
+        }
+      },
+      {
+        "title_music": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07115425/77c96822d2cf3adc31f0321808e9659f8a2d381503b1fcb3f773d40c1caf25be.jpg",
+          "text": "Carol"
+        }
+      },
+      {
+        "title_music": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06155448/c3d8dcea66659c9ebf85c9deacc3bb3b5e849a34739c54047c10cbe8c2fe7fb2.jpg",
+          "text": "Sicario"
+        }
+      },
+      {
+        "title_music": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06122256/37e82ec6d6cf8b279bb68b2c5389cb96c312ec69e80e99419d5029272d612103.jpg",
+          "text": "Star Wars: El despertar de la fuerza"
+        }
+      },
+      {
+        "title_music": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/08122013/bc4dc4c865a73d7f79ada6d44a84a2b7304e8677b41bab71c29f9f022ebc03e0.jpeg",
+          "text": "Los odiosos ocho"
+        }
+      }
+    ],
+    "song": [
+      {
+        "title_song": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/13225258/1fc8c77fc718d3b508d65dda18426f9d2c08e93b02e758e35b8706738a02ee1e.jpg",
+          "text": "Earned it (50 sombras de Grey)"
+        }
+      },
+      {
+        "title_song": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/13235251/f6a70423dc4cef9dd9bb3cfde3e2d28e1afb266a112cd3a067aeb7a671a8279c.jpg",
+          "text": "Manta Ray (Racing Extinction)"
+        }
+      },
+      {
+        "title_song": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/05160537/25ff5a950552e5d49706c58281f283bbd485c5f1ff17a908d038515dba2a3560.jpg",
+          "text": "Simple Song #3 (La juventud)"
+        }
+      },
+      {
+        "title_song": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/08103618/c68bede4214db3fa6b00e4d6766278ee4e5ff98c6c3323106b6dd1e215d440fc.jpg",
+          "text": "Til it happens to you (The hunting ground)"
+        }
+      },
+      {
+        "title_song": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06151307/96c27327ce86e1393b842382fa066fe58a44c710605b4c3d163562566ac8250e.jpg",
+          "text": "Writing on the wall (Spectre)"
+        }
+      }
+    ],
+    "production_design": [
+      {
+        "title_design": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/19094832/22c2ede873d33f6a8a2a89d016323a326b49f00a2c2cf857c48a44c85b2b24e5.jpg",
+          "text": "El puente de los espías"
+        }
+      },
+      {
+        "title_design": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07124325/5fe7fe4d97e8d1f863f873e889a2193789b6470e5e6ddae5529305e177bf8ed7.jpg",
+          "text": "Mad Max: Furia en la carretera"
+        }
+      },
+      {
+        "title_design": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07125153/1641d8e4f3d7ba23de6fe7aca6ce9bf20a154577c556007fd643363e99f5f925.jpg",
+          "text": "La chica danesa"
+        }
+      },
+      {
+        "title_design": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07122304/8fba759e9ecc6f8d378e42abdde723c3f5f8c3a9a31f6bb062fa547db12c4f1f.jpg",
+          "text": "Marte"
+        }
+      },
+      {
+        "title_design": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06180744/773bddf4631d268b7a1d8fe196700c54db8e328aec2f9da422dd9d464859ec41.jpg",
+          "text": "El renacido"
+        }
+      }
+    ],
+    "sound_editing": [
+      {
+        "title_s_edit": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07124325/5fe7fe4d97e8d1f863f873e889a2193789b6470e5e6ddae5529305e177bf8ed7.jpg",
+          "text": "Mad Max: Furia en la carretera"
+        }
+      },
+      {
+        "title_s_edit": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06155448/c3d8dcea66659c9ebf85c9deacc3bb3b5e849a34739c54047c10cbe8c2fe7fb2.jpg",
+          "text": "Sicario"
+        }
+      },
+      {
+        "title_s_edit": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06122256/37e82ec6d6cf8b279bb68b2c5389cb96c312ec69e80e99419d5029272d612103.jpg",
+          "text": "Star Wars: El despertar de la fuerza"
+        }
+      },
+      {
+        "title_s_edit": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07122304/8fba759e9ecc6f8d378e42abdde723c3f5f8c3a9a31f6bb062fa547db12c4f1f.jpg",
+          "text": "Marte"
+        }
+      },
+      {
+        "title_s_edit": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06180744/773bddf4631d268b7a1d8fe196700c54db8e328aec2f9da422dd9d464859ec41.jpg",
+          "text": "El renacido"
+        }
+      }
+    ],
+    "sound_mixing": [
+      {
+        "title_s_mix": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/19094832/22c2ede873d33f6a8a2a89d016323a326b49f00a2c2cf857c48a44c85b2b24e5.jpg",
+          "text": "El puente de los espías"
+        }
+      },
+      {
+        "title_s_mix": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07124325/5fe7fe4d97e8d1f863f873e889a2193789b6470e5e6ddae5529305e177bf8ed7.jpg",
+          "text": "Mad Max: Furia en la carretera"
+        }
+      },
+      {
+        "title_s_mix": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06122256/37e82ec6d6cf8b279bb68b2c5389cb96c312ec69e80e99419d5029272d612103.jpg",
+          "text": "Star Wars: El despertar de la fuerza"
+        }
+      },
+      {
+        "title_s_mix": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07122304/8fba759e9ecc6f8d378e42abdde723c3f5f8c3a9a31f6bb062fa547db12c4f1f.jpg",
+          "text": "Marte"
+        }
+      },
+      {
+        "title_s_mix": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06180744/773bddf4631d268b7a1d8fe196700c54db8e328aec2f9da422dd9d464859ec41.jpg",
+          "text": "El renacido"
+        }
+      }
+    ],
+    "visual_effects": [
+      {
+        "title_effects": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07150125/3086769cfa36c94d625e958981bfc6901c2d116dbd80fb864e067e333ba56542.jpg",
+          "text": "Ex Machina"
+        }
+      },
+      {
+        "title_effects": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07124325/5fe7fe4d97e8d1f863f873e889a2193789b6470e5e6ddae5529305e177bf8ed7.jpg",
+          "text": "Mad Max: Furia en la carretera"
+        }
+      },
+      {
+        "title_effects": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07122304/8fba759e9ecc6f8d378e42abdde723c3f5f8c3a9a31f6bb062fa547db12c4f1f.jpg",
+          "text": "Marte"
+        }
+      },
+      {
+        "title_effects": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06180744/773bddf4631d268b7a1d8fe196700c54db8e328aec2f9da422dd9d464859ec41.jpg",
+          "text": "El renacido"
+        }
+      },
+      {
+        "title_effects": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06122256/37e82ec6d6cf8b279bb68b2c5389cb96c312ec69e80e99419d5029272d612103.jpg",
+          "text": "Star Wars: El despertar de la fuerza"
+        }
+      }
+    ],
+    "writing_adapted": [
+      {
+        "title_w_adap": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/05162434/f1c5ca53316b9b0f889a9d55bf2b31c394541dc979a981ef16a5bec95cc737d3.jpg",
+          "text": "La gran apuesta"
+        }
+      },
+      {
+        "title_w_adap": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07114336/587660ca08ee3eb89350921571b69736dcd09bd3b9090aab796459d6cc8c0153.jpg",
+          "text": "Brooklyn"
+        }
+      },
+      {
+        "title_w_adap": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07122304/8fba759e9ecc6f8d378e42abdde723c3f5f8c3a9a31f6bb062fa547db12c4f1f.jpg",
+          "text": "Marte"
+        }
+      },
+      {
+        "title_w_adap": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07115425/77c96822d2cf3adc31f0321808e9659f8a2d381503b1fcb3f773d40c1caf25be.jpg",
+          "text": "Carol"
+        }
+      },
+      {
+        "title_w_adap": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06173251/8b6e81164efd39b69954972919b6d33d8fe85e4acb46f6e95262128fa2d4e90e.jpg",
+          "text": "La habitación"
+        }
+      }
+    ],
+    "writing_original": [
+      {
+        "title_w_orig": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/19094832/22c2ede873d33f6a8a2a89d016323a326b49f00a2c2cf857c48a44c85b2b24e5.jpg",
+          "text": "El puente de los espías"
+        }
+      },
+      {
+        "title_w_orig": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07150125/3086769cfa36c94d625e958981bfc6901c2d116dbd80fb864e067e333ba56542.jpg",
+          "text": "Ex Machina"
+        }
+      },
+      {
+        "title_w_orig": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07174757/d69fb0d55323f1d70fd91d2f63e041fa0f56367d59eb24a8e3d22d3b8c7e34cd.jpg",
+          "text": "Del revés"
+        }
+      },
+      {
+        "title_w_orig": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06131956/6ee6a434d2504ffeac420559cf02b9c1a2e058642ef6637ba38c795ba4a5f141.jpg",
+          "text": "Spotlight"
+        }
+      },
+      {
+        "title_w_orig": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06110246/753972cfe1b2de6be4cbd51dcd43912eb3c217855ae2509f7450f297f394113e.jpg",
+          "text": "Straight Outta Compton"
+        }
+      }
+    ],
+    "directing": [
+      {
+        "title_direc": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/05162434/f1c5ca53316b9b0f889a9d55bf2b31c394541dc979a981ef16a5bec95cc737d3.jpg",
+          "text": "Adam McKay (La gran apuesta)"
+        }
+      },
+      {
+        "title_direc": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/07124325/5fe7fe4d97e8d1f863f873e889a2193789b6470e5e6ddae5529305e177bf8ed7.jpg",
+          "text": "George Miller (Mad Max: Furia en la carretera)"
+        }
+      },
+      {
+        "title_direc": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06180744/773bddf4631d268b7a1d8fe196700c54db8e328aec2f9da422dd9d464859ec41.jpg",
+          "text": "Alejandro G. Iñárritu (El renacido)"
+        }
+      },
+      {
+        "title_direc": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06173251/8b6e81164efd39b69954972919b6d33d8fe85e4acb46f6e95262128fa2d4e90e.jpg",
+          "text": "Lenny Abrahamson (La habitación)"
+        }
+      },
+      {
+        "title_direc": {
+          "href": "http://oscar-prod-images.bls-customers.com/wp-content/uploads/2016/01/06131956/6ee6a434d2504ffeac420559cf02b9c1a2e058642ef6637ba38c795ba4a5f141.jpg",
+          "text": "Thomas McCarthy (Spotlight)"
+        }
+      }
+    ]
+  }
+}

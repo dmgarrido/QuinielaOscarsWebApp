@@ -1,0 +1,46 @@
+body {
+    padding-top: 70px;
+    color: #f2d031;
+    background-color: #383838;
+}
+
+h1{color:#f2d031}
+
+h4 {color: black;}
+
+.menu{
+	background-color:#222222;
+	color:#f2d031;
+	border-color: #222222;
+}
+
+.alert-success {
+    background-color: #b7f9a9;
+    border-color: #b7f9a9;
+    color: #222222;
+}
+
+.alert-warning {
+    background-color:#f9b4a9;
+    border-color: #f9b4a9;
+    color: #222222;
+}
+
+li:{padding-left: 10px; margin-left: 10px;}
+
+/* To disable the Google+ Sign In Button, but gapi.signin.render should be invoked to store the credential
+   if that is stored in cookie. */
+#signInButton iframe {
+    display: none;
+}
+
+/*
+ * Footer
+ */
+.page-footer {
+  padding: 40px 0;
+  color: #999;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: 1px solid #e5e5e5;
+}
